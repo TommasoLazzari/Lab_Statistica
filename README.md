@@ -5,7 +5,7 @@
 
 ## Informazioni sul progetto
 
- - Note: At the moment, the technical reports and supporting documentation are available only in Italian. English versions will be released soon.
+Note: At the moment, the technical reports and supporting documentation are available only in Italian. English versions will be released soon.
 
 Questo progetto è stato sviluppato nell’ambito di un bando promosso dall’Università degli Studi di Padova, in collaborazione con RE-ACT. Contiene una pipeline completa in Python che parte dalla pulizia dei dati aperti dell'ANAC (Autorità Nazionale Anticorruzione), passando per il preprocessing e la costruzione di un grafo eterogeneo, fino all'addestramento di un modello di **Graph Neural Network (GNN)** per l'Anomaly Detection. 
 
