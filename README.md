@@ -1,6 +1,6 @@
 # Anomaly Detection on Heterogeneous Graphs for the Italian Public Administration
 
-#### University of Padua - RE-ACT
+#### Università di Padova - RE-ACT
 #### Gomiero Guido - Bortolato Alberto - Lazzari Tommaso
 
 ## Project Information
