@@ -122,4 +122,4 @@ Another Streamlit application dedicated to browsing and visualizing anomaly dete
 
 ---
 
-April, 2026
+April, 2026.
